@@ -1,0 +1,14 @@
+{
+  "name": "lab-selesai-flag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch-tailwind": "npx tailwindcss -i ./public/style-input-tailwind.css -o ./public/dist/style.css --watch"
+  },
+  "author": "Henly Forbesly",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
